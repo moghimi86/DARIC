@@ -1,0 +1,6 @@
+{
+  "name": "دارایی زنده | Live Wealth Tracker",
+  "description": "Bilingual (Persian + English) AI-powered personal finance and net worth tracking app designed for inflation-heavy economies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
